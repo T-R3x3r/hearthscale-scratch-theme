@@ -1,0 +1,102 @@
+/* Ember, dark: generated from one accent. Token values only. */
+.hs-shell {
+  --bg: #0d0704;
+  --fadeL:
+    radial-gradient(
+      460px 360px at 2% 0%,
+      rgba(255, 98, 51, 0.176) 0%,
+      rgba(255, 98, 51, 0.096) 40%,
+      rgba(255, 98, 51, 0) 85%
+    ),
+    radial-gradient(
+      480px 600px at 9% 50%,
+      rgba(255, 43, 20, 0.096) 0%,
+      rgba(255, 43, 20, 0.051) 40%,
+      rgba(255, 43, 20, 0) 85%
+    ),
+    radial-gradient(
+      560px 200px at 62% 0%,
+      rgba(255, 138, 61, 0.128) 0%,
+      rgba(255, 138, 61, 0.064) 40%,
+      rgba(255, 138, 61, 0) 85%
+    ),
+    radial-gradient(
+      420px 460px at 2% 102%,
+      rgba(255, 98, 51, 0.096) 0%,
+      rgba(255, 98, 51, 0.045) 40%,
+      rgba(255, 98, 51, 0) 85%
+    ),
+    radial-gradient(
+      600px 230px at 45% -8%,
+      rgba(255, 43, 20, 0.102) 0%,
+      rgba(255, 43, 20, 0.051) 40%,
+      rgba(255, 43, 20, 0) 85%
+    ),
+    radial-gradient(
+      520px 210px at 88% -6%,
+      rgba(255, 98, 51, 0.109) 0%,
+      rgba(255, 98, 51, 0.058) 40%,
+      rgba(255, 98, 51, 0) 85%
+    );
+  --glassrgb: 26 14 10;
+  --glassa: 0.44;
+  --gloss: linear-gradient(
+    180deg,
+    rgba(226, 188, 177, 0.08),
+    rgba(226, 188, 177, 0.02) 140px,
+    rgba(226, 188, 177, 0) 45%
+  );
+  --glossline: rgba(226, 188, 177, 0.12);
+  --text: #f5e9e5;
+  --mut: #b5958c;
+  --dim: #7c625a;
+  --capt: #553c34;
+  --win: #170d0a;
+  --winb: #382019;
+  --line: #2b1813;
+  --card: #1f110d;
+  --cardb: #382019;
+  --sline: #382019;
+  --hov: rgba(255, 94, 46, 0.13);
+  --act: rgba(255, 94, 46, 0.2);
+  --btnhov: rgba(255, 94, 46, 0.2);
+  --ok: #40ba50;
+  --warn: #d39b22;
+  --bad: #d5583f;
+  --scroll: rgba(226, 188, 177, 0.16);
+  --scrollhov: rgba(226, 188, 177, 0.34);
+  --accent: #ff5e2e;
+  --accent-grad: radial-gradient(
+    95% 130% at 50% 96%,
+    #f4dad2 0%,
+    #fc9f83 22%,
+    #ff6638 48%,
+    #ff3b00 72%,
+    #cc2f00 100%
+  );
+  --accent-grad-off: radial-gradient(
+    95% 130% at 50% 96%,
+    #ecdeda 0%,
+    #e1ad9e 22%,
+    #d27e65 48%,
+    #c65a39 72%,
+    #9e482e 100%
+  );
+  --accent-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.22), inset 0 1.5px 0 rgba(255, 255, 255, 0.6),
+    0 2px 8px rgba(255, 94, 46, 0.35);
+  --accent-ink: #230d06;
+  --mark-hi: #fc9f83;
+  --mark-lo: #ff3b00;
+  --bubu: #f9f2f0;
+  --bubut: #190e0b;
+  --buba: #25130e;
+  --bubat: #f5e9e5;
+  --tiprgb: 38 19 13;
+  --tipa: 0.32;
+  --tipline: rgba(226, 188, 177, 0.16);
+  --grain: 0.02;
+  --glimmer: rgba(226, 188, 177, 0.5);
+  --barbg: rgba(13, 7, 4, 0.32);
+  --wshadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 10px 28px rgba(0, 0, 0, 0.45);
+}
