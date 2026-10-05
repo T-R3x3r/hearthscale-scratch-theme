@@ -1,7 +1,8 @@
 {
   "id": "scratch-soft",
   "name": "Scratch Soft",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Softer corners and a warm accent.",
-  "author": "T-R3x3r"
+  "author": "T-R3x3r",
+  "payment": "free"
 }
