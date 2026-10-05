@@ -1,8 +1,7 @@
 {
-  "id": "scratchtheme",
-  "name": "Scratch Theme",
-  "version": "1.0.2",
-  "description": "A colourway for verifying the Marketplace.",
-  "author": "T-R3x3r",
-  "payment": "free"
+  "id": "scratch-soft",
+  "name": "Scratch Soft",
+  "version": "1.1.0",
+  "description": "Softer corners and a warm accent.",
+  "author": "T-R3x3r"
 }

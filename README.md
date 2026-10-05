@@ -1,3 +1,3 @@
-# Scratch Theme
+# Scratch Soft
 
-Ember, listed from a scratch repository.
+A scratch theme: softer corners and a warm accent in dark mode.
